@@ -1,6 +1,3 @@
-# Você está analisando palavras e deseja saber quantas vogais cada palavra contém. Escreva um programa que conte e exiba o número de vogais em uma palavra inserida pelo usuário.
-
-
 palavra = input("Digite uma palavra para contar as vogais: ")
 vogais = 'aeiouAEIOU'
 contador_vogais = 0
